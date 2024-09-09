@@ -1,4 +1,4 @@
-document.getElementById("sidebarRU").innerHTML = "RU";
+document.getElementById("SidebarRU").innerHTML = "🇷🇺RU";
 document.getElementById("").innerHTML = "Uralbek UZ";
 document.getElementById("logotip").innerHTML = "Uralbek UZ";
 document.getElementById("logotip").innerHTML = "Uralbek UZ";
