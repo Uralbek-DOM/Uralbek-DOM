@@ -1,5 +1,5 @@
-document.getElementById("SidebarRU").innerHTML = "🇷🇺RU";
-document.getElementById("").innerHTML = "Uralbek UZ";
+document.getElementById("SidebarRU").innerHTML = "🇷🇺 RU";
+document.getElementById("SidebarEN").innerHTML = "🇺🇸 E";
 document.getElementById("logotip").innerHTML = "Uralbek UZ";
 document.getElementById("logotip").innerHTML = "Uralbek UZ";
 document.getElementById("logotip").innerHTML = "Uralbek UZ";
